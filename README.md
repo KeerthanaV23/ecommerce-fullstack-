@@ -2,7 +2,7 @@
 
 A full-stack e-commerce web application built with **Django REST Framework** (backend) and **React** (frontend). Features a product catalog, category management, and a fully functional shopping cart.
 
-## 🚀 Features
+## Features
 
 - **Product Catalog** – Browse products with category filtering, stock status, and pricing
 - **Admin Panel** – Django admin interface for managing products and categories (CRUD operations)
@@ -10,7 +10,7 @@ A full-stack e-commerce web application built with **Django REST Framework** (ba
 - **Shopping Cart** – Add/remove items, adjust quantities, real-time total calculation
 - **Responsive Design** – Clean, modern UI that works across screen sizes
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Backend:**
 - Python, Django, Django REST Framework
@@ -21,7 +21,7 @@ A full-stack e-commerce web application built with **Django REST Framework** (ba
 - Axios for API integration
 - CSS3 (custom styling)
 
-## ⚙️ Setup Instructions
+##  Setup Instructions
 
 ### Backend
 ```bash
@@ -56,13 +56,10 @@ ecommerce-project/
 └── src/
 ├── App.jsx        # Main component with cart logic
 └── App.css        # Styling
-## 🔗 API Endpoints
+##  API Endpoints
 
 | Endpoint | Method | Description |
 |----------|--------|-------------|
 | `/api/products/` | GET | List all products |
 | `/api/categories/` | GET | List all categories |
 
-## 👩‍💻 Author
-
-Built by Keerthana as part of a full-stack development learning project.
